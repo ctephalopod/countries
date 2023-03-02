@@ -2,22 +2,22 @@
 <svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7105.64 2876.81">
 	<defs>
 		<style>
-			.base.sa {
+			base.sa {
 			 fill:#d2c8c4;
 			 }
-			.base.sa,.base.ant,.act.sa,.act.ant {
+			base.sa,base.ant,act.sa,act.ant {
 			 stroke:#fff;stroke-miterlimit:10;
 			 }
-			.base.ant {
+			base.ant {
 			 fill:#ccc9b9;
 			 }
-			.base.ant,.act.sa,.act.ant {
+			base.ant,act.sa,act.ant {
 			 stroke-width:3px;
 			 }
-			.active.sa {
+			active.sa {
 			 fill:#6d4d40;
 			 }
-			.active.ant {
+			active.ant {
 			 fill:#5a5019;}
 		</style>
 	</defs>

@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7105.64 2876.81">
 	<defs>
-		<style>
-			.base.sa {
-			 fill:#d2c8c4;
-			 }
-			.base.sa,.base.ant,.act.sa,.act.ant {
-			 stroke:#fff;stroke-miterlimit:10;
-			 }
-			.base.ant {
-			 fill:#ccc9b9;
-			 }
-			.base.ant,.act.sa,.act.ant {
-			 stroke-width:3px;
-			 }
-			.act.sa {
-			 fill:#6d4d40;
-			 }
-			.act.ant {
-			 fill:#5a5019;}
-		</style>
 	</defs>
 	<g id="WORLD">
 		<g id="SOUTH_AMERICA">
